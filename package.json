@@ -1,0 +1,20 @@
+{
+    "name": "feather-js",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@feathersjs/express": "^4.5.15",
+        "@feathersjs/feathers": "^4.5.15",
+        "@feathersjs/socketio": "^4.5.15",
+        "moment": "^2.29.4",
+        "pg": "^8.8.0",
+        "pg-hstore": "^2.3.4"
+    }
+}
